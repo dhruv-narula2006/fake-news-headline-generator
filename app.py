@@ -18,7 +18,6 @@ body {
     font-weight: bold;
 }
 .headline-box {
-    background-color: #1c1f26;
     padding: 20px;
     border-radius: 10px;
     font-size: 24px;

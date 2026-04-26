@@ -2,6 +2,11 @@
 
 A fun Python + Streamlit web app that generates random news headlines with grammar correction.
 
+
+## 🚀 Live Demo
+https://fake-news-headline-generator.streamlit.app/
+
+
 ## Features
 - Custom user inputs
 - Grammar correction
@@ -9,9 +14,13 @@ A fun Python + Streamlit web app that generates random news headlines with gramm
 - Download headlines
 - Web interface using Streamlit
 
+## 🛠️ Tech Stack
+- Python  
+- Streamlit  
 
-## 🚀 Live Demo
-https://fake-news-headline-generator.streamlit.app/
+## 📸 Screenshot
+```markdown
+![App Screenshot](assets/screenshot.png)
 
 
 ## Run locally
