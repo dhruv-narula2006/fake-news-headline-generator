@@ -9,10 +9,13 @@ A fun Python + Streamlit web app that generates random news headlines with gramm
 - Download headlines
 - Web interface using Streamlit
 
+
+## 🚀 Live Demo
+https://fake-news-headline-generator.streamlit.app/
+
+
 ## Run locally
 ```bash
 pip install streamlit
 streamlit run app.py
 
-## 🚀 Live Demo
-https://fake-news-headline-generator.streamlit.app/
