@@ -19,7 +19,6 @@ https://fake-news-headline-generator.streamlit.app/
 - Streamlit  
 
 ## 📸 Screenshot
-```markdown
 ![App Screenshot](assets/screenshot(228).png)
 
 
